@@ -1,6 +1,6 @@
 ![Docker + Drupal](https://raw.githubusercontent.com/twinbit/drupal-docker-env/master/dde.png)
 
-## Drupal Docker CLI
+## Drupal Docker CLI extra ruby packages
 
 Packages:
  - PHP 5.5 CLI
